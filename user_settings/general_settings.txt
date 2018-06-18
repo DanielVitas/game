@@ -1,0 +1,4 @@
+frame_dimensions; 800; 600
+frame_additional_scale; 1.0; 1.0
+main_character_name; Kirito
+mouse_confined; True
