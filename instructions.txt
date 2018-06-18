@@ -32,7 +32,7 @@ PLAY MODE:
 	DELETE .............. delete object hovered by your mouse (only gravity fields)
 	- .............. zoom out
 	= .............. zoom in
-  	SPACE .............. center camera on character=
+  	SPACE .............. center camera on character
 
 OTHER:
 	ESC .............. back/menu
