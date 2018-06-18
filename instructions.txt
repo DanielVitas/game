@@ -17,7 +17,7 @@ BUILD MODE:
 	= .............. zoom in
 	↑, ← .............. contract selected object
 	↓, → .............. stretch selected object
-  SPACE .............. center camera on character
+  	SPACE .............. center camera on character
 
 	While an object is selected it will move with your mouse.
 
