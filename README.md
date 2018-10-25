@@ -1,5 +1,5 @@
 # Projektna naloga za UVP
-Projekt za UVP
+Projektna naloga za UVP
 
 Potrebne knjiznice: pygame
 
